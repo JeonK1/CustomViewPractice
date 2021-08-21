@@ -6,12 +6,20 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <com.example.customviewpractice.custom2.BannerImageViewLayout
+        android:id="@+id/banner_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        custom:switch_interval="10000"/>
+
     <com.example.customviewpractice.custom.AgainstMultiClickButton
         android:id="@+id/custom_button"
+        android:layout_marginTop="30dp"
+        android:layout_below="@id/banner_image_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
         android:text="여러 번 눌러도 1번으로 인식하는 버튼"
         custom:interval="2000" />
 
