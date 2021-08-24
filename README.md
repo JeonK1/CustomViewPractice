@@ -14,7 +14,7 @@
 
 <h2>실행 화면</h2>
 <h4> 중복 클릭 방지 버튼 </h4>
-<video src="/readme/button.mp4" width="600"></video>
+<img src="/readme/button.gif" width=600 />
 
 <h4> 자동으로 넘어가는 배너 </h4>
 <img src="/readme/1.png" width=600 />
