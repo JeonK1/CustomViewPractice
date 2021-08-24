@@ -1,5 +1,5 @@
 # CustomViewPractice
-Custom View를 연습해보자
+나만의 CustomView 
 <br>
 
 <h2>프로젝트 개요</h2>
