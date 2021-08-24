@@ -12,6 +12,12 @@
 <h2>Study Note</h2>
 - <a href="https://blog.naver.com/ponson1017/222475344604"> Custom View </a><br>
 
+<h2>실행 화면</h2>
+<h4> 중복 클릭 방지 버튼 </h4>
+
+
+<h4> 자동으로 넘어가는 배너 </h4>
+
 <h2>개발환경</h2>
 Complie SDK Version: Android 11 (API 30) <br>
 Minimum SDK Version: Android 10 (API 29) <br>
